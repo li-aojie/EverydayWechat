@@ -1,0 +1,18 @@
+# 配置文件请严格遵循yaml语法格式，yaml学习地址:
+#  https://ansible-tran.readthedocs.io/en/latest/docs/YAMLSyntax.html
+#  http://einverne.github.io/post/2015/08/yaml.html
+
+alarm_timed: '12:40'
+girlfriend_infos:
+  -
+    #女友微信昵称
+    wechat_name: '戛纳沫羡^_^'
+    #女友所在上海
+    city_name: '上海'
+    # 从那天开始勾搭的
+    start_date: '2018-07-19'
+    # 短句的最后留言
+    sweet_words: '来自最爱你的我。'
+
+
+
