@@ -127,8 +127,8 @@ python run.py
 ```
 
 ## 最后
-项目地址：[https://github.com/sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat)  
-写完后才发现，我并没有女朋友啊！
+项目地址：[https://github.com/luoyingjack/EverydayWechat.git](https://github.com/luoyingjack/EverydayWechat.git)  
+本代码非本人所写，仅学习参考。
 
 
   [1]: https://juejin.im/post/5c77c6bef265da2de6611cff
